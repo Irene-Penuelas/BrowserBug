@@ -1,0 +1,27 @@
+body{
+   /* background-image: url("http://previews.123rf.com/images/song/song1112/song111200007/11561114-Christmas-letter-Vector-illustration-of-snowman-and-cardinal-bird-with-empty-blank-on-horizontal-bac-Stock-Vector.jpg");
+   */ background-repeat: no-repeat;
+    height: 50em;
+}
+div {
+    margin: auto;
+    height: 25em;
+    width: 24em;
+    padding-left: 25em;
+    padding-right: 30em;
+    padding-bottom: 25em;
+}
+
+section{
+    border: dashed red;
+    height: 7em;
+    width: 34em;
+    color: oldlace;
+}
+
+
+.letter{
+    width: 28em;
+    height: 28em;
+    font-size: larger;
+}
